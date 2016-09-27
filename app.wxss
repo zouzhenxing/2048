@@ -1,0 +1,10 @@
+/**app.wxss**/
+.container {
+  height: 300px;
+  width: 300px;
+  margin: auto; 
+}
+page {
+  overflow: hidden;
+  padding: 20px 0px;
+}
